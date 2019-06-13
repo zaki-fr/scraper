@@ -1,0 +1,3768 @@
+MINISTÈRE DES SOLIDARITÉS ET DE LA SANTÉ
+Bulletin officiel 
+No 2018/5 bis 
+Fascicule spécial
+MANUEL 
+DES GROUPES HOMOGÈNES 
+DE MALADES
+Version 2018 de la classification
+Mise à jour au 1er mars 2018
+Volume 3
+Arbre de décision
+MINISTÈRE DES SOLIDARITÉS ET DE LA SANTÉ
+Date de publication : juillet 2018
+Directrice de la publication : Valérie Delahaye-Guillocheau, directrice de la direction des finances, des achats et des services  
+Rédactrice en chef : Catherine Baude, cheffe du bureau de la politique documentaire
+Réalisation :  SGMAS-DFAS –  Bureau de la politique documentaire
+14, avenue Duquesne, 75350 Paris 07 SP, tél. : 01-40-56-45-44
+MANUEL
+DES GROUPES HOMOGÈNES
+DE MALADES
+Version 2018 de la classification
+Mise à jour au 1er mars 2018
+Volume 3
+Arbre de décision
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VOLUME 3 - SOMMAIRE 
+Présentation de l’arbre de décision de la classification en GHM 
+Sommaire ........................................................................................................................3 
+Présentation .....................................................................................................................5 
+Catégories majeures et catégories majeures de diagnostics 
+28 Séances ..................................................................................................................... 10 
+27 Transplantations d'organes ......................................................................................... 12 
+26 Traumatismes multiples graves .................................................................................. 13 
+25 Maladies dues à une infection par le VIH ................................................................... 14 
+15 Nouveau-nés, prématurés et affections de la période périnatale
+ ................................... 15 
+01 Affections du système nerveux .................................................................................. 20 
+02 Affections de l'œil ..................................................................................................... 24 
+03 Affections des oreilles, du nez, de la gorge, de la bouche et des dents.......................... 26 
+04 Affections de l'appareil respiratoire
+ ............................................................................ 30 
+05 Affections de l'appareil circulatoire
+ ............................................................................ 33 
+06 Affections du tube digestif
+ ......................................................................................... 37 
+07 Affections du système hépatobiliaire et du pancréas ................................................... 41 
+08 Affections et traumatismes de l'appareil musculosquelettique et du tissu conjonctif
+ ..... 44 
+09 Affections de la peau, des tissus sous-cutanés et des seins........................................... 50 
+10 Affections endocriniennes, métaboliques et nutritionnelles
+ ......................................... 53 
+11 Affections du rein et des voies urinaires ..................................................................... 55 
+12 Affections de l'appareil génital masculin .................................................................... 58 
+13 Affections de l'appareil génital féminin ...................................................................... 60 
+14 Grossesses pathologiques, accouchements et affections du post-partum....................... 63 
+16 Affections du sang et des organes hématopoïétiques ................................................... 68 
+17 Affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+ ......................... 70 
+18 Maladies infectieuses et parasitaires
+ ........................................................................... 72 
+19 Maladies et troubles mentaux..................................................................................... 73 
+20 Troubles mentaux organiques liés à l'absorption de drogues ou induits par celles-ci ..... 75 
+21 Traumatismes, allergies et empoisonnements
+ ............................................................. 76 
+22 Brûlures .................................................................................................................... 78 
+23 Facteurs influant sur l'état de santé et autres motifs de recours aux services de santé .... 79 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arbre de décision de la classification en GHM 
+Symboles et abréviations divers 
+ 
+ 
+CMD : catégorie majeure de diagnostic (1 à 14, 16 à 23, 25, 26, 28) 
+CM : catégorie majeure (15, 27, 90) GHM : groupe homogène de malades 
+CMA : complication ou morbidité associée G : groupe de malades (CM 90) 
+ 
+ 
+Groupes 
+Cette forme correspond à une racine de GHM 
+G comportant au moins 
+une erreur ou inclassable 
+CMD 01 
+à 
+14 
+Enchaînement  
+des pages 
+Enchaînement  
+des CMD 
+La couleur bleue indique que l’âge intervient comme 
+marqueur de sévérité sur cette racine 
+Racine du GHM 
+ 
+J : ambulatoire 
+T : très courte durée 
+1 : niveau de sévérité (1, 2, 3, 4) 
+Z : non segmenté 
+E : avec décès 
+A, B, C, D : complications 
+spécifiques 
+ 
+ 
+La couleur verte indique que l’âge gestationnel intervient 
+comme marqueur de sévérité sur cette racine 
+5
+ 
+Tests effectués dans l’arbre de décision de la classification 
+en GHM 
+ 
+ 
+Représentation des tests dichotomiques portant sur les 
+données médicales du RSS (diagnostics et actes) 
+ 
+Condition non satisfaite 
+Condition satisfaite 
+Symboles utilisés pour identifier les données médicales 
+L’un au moins des 
+diagnostics du RSS  
+L’un au moins 
+des actes du RSS 
+Deux au moins des 
+diagnostics du RSS  
+Deux au moins des  
+actes du RSS  
+Tous les  diagnostics  
+du RSS  
+Tous les  actes  
+du RSS  
+Le diagnostic  
+principal du RSS 
+Le diagnostic relié au 
+DP du RSS 
+L’un au moins des  diagnostics 
+ associés significatifs du RSS 
+Symbole 
+identifiant 
+la donnée 
+testée 
+Anesthésie 
+générale 
+Inversion du 
+diagnostic principal 
+avec le diagnostic 
+relié  
+ 
+Au moins 1 diagnostic 
+parmi DP et DAS sauf DR 
+Détermination du 
+groupe du 
+nouveau-né 
+6
+ 
+Tests effectués dans l’arbre de décision de la classification 
+en GHM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y’a-t-il eu 
+inversion DP et 
+DR ? 
+Condition non satisfaite 
+Condition satisfaite 
+Identification 
+de la donnée 
+testée 
+Identification de la donnée testée 
+ 
+Âge = âge à l’entrée 
+DS = durée de séjour 
+Dest = destination 
+MS = mode de sortie 
+Poids = poids à l’entrée dans l’unité médicale 
+GNN = groupe de nouveau-nés 
+ 
+Représentation des tests dichotomiques portant sur des données non médicales du RSS 
+ 
+7
+ 
+Tests spéciaux  
+dans l’arbre de décision de la classification en GHM 
+ 
+ 
+Afin de ne pas alourdir la présentation, certains tests ont été simplifiés dans les schémas 
+ 
+ 
+1er cas : inversion DP-DR 
+Ce qui est dessiné  Ce qu’il faut comprendre : 
+Pas d’inversion du DP 
+Le DR devient le DP 
+CMAS 
+2ème cas : actes sans relation avec le diagnostic principal 
+Ce qui est dessiné Ce qu’il faut comprendre : 
+1. Le DP appartient-il à la liste des 
+DP pour lesquels on veut inverser 
+DP/DR ? 
+2. Existe-t-il un DR ?  
+3. Dans l’affirmative aux deux 
+questions, le DR devient DP et 
+inversement. 
+ 
+Attention, cette inversion ne modifie 
+en rien les règles de recueil : elle est 
+interne à la fonction groupage. 
+1. Tous les actes classant opératoires appartiennent-ils 
+à la liste des actes mineurs « reclassant dans un 
+GHM médical » ? 
+2. Si oui : ces actes sont ignorés par la fonction 
+groupage, le RSS suit le parcours de l’arbre, le code 
+retour 80 est renvoyé 
+3. Si non, existe-t-il au moins un acte classant 
+opératoire ? 
+• Si oui, alors il est ignoré par la fonction 
+groupage, le RSS suit le parcours de l’arbre, le 
+code retour 222 est renvoyé. Il correspond à 
+l’ancien groupe « acte sans relation avec le 
+diagnostic principal » 
+8
+ 
+ORIENTATION 
+vers les CATÉGORIES MAJEURES 27 et 15 vers les 
+CATÉGORIES MAJEURES DE DIAGNOSTIC 1 à 14, 16 à 23, 25, 26 et 28 
+ 
+ 
+ 
+ 
+ 
+CMD 28 
+Séance 
+CM 27 
+Spécifique des groupes de transplantation 
+CMD 26 
+Traumatisme multiple grave 
+CMD 25 
+Infection par le VIH 
+CMD 01 
+à 
+23 
+Détermination de la CMD 
+DP 
+DP = traumatisme 
+et 
+2 diagnostics traumatisme 
+sur 2 sites différents 
+[DP=Infection VIH et  
+DAS diagnostic lié au VIH] 
+ou 
+[DP=diagnostic lié au VIH 
+et DAS infection VIH] 
+A 
+Type 
+d’hospitalisation 
+Âge < 8 jours ou  
+ 
+[ Mode d’entrée 7 
+Et 
+ (Poids < 2500g ou Âge < 
+29jours) ] 
+ 
+ 
+CM 15 
+Nouveau-nés et affections 
+de la période périnatale 
+9
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°28
+Séances
+Nb
+Séances
+> 0
+Motif de
+séance
+(D-145)
+Séance
+d'épuration
+extrarénale
+(D-113)
+28Z01
+Z
+Entrainement à la dialyse péritonéale automatisée
+(A-180)
+28Z02
+Z
+Entrainement à la dialyse péritonéale continue
+ambulatoire (A-181)
+28Z03
+Z
+Entrainement à l'hémodialyse (A-234)
+28Z04
+Z
+Séance d'hémodialyse (D-030)
+90Z02Z
+28Z07
+Z
+Séance de chimiothérapie pour tumeur maligne (D-114)
+28Z17
+Z
+Séance de chimiothérapie pour affection non tumorale (D-063)
+Préparation
+à une
+irradiation
+externe
+(D-142)
+28Z19
+Z
+RCMI ou technique spéciale (A-314)
+28Z20
+Z
+Dosimétrie tridimensionnelle avec HDV (A-315)
+28Z21
+Z
+Dosimétrie tridimensionnelle sans HDV (A-316)
+28Z22
+Z
+Autre préparation à l'irradiation externe (A-317)
+90Z02Z
+Séance
+d'irradiation
+(D-143)
+28Z10
+Z
+Curiethérapie ou irradiation interne (A-205)
+Actes d'irradiation en dose unique (A-342)
+28Z11
+Z
+Technique spéciale d'irradiation externe (A-170)
+1
+2
+3
+4
+10
+1
+2
+3
+4
+28Z18
+Z
+RCMI (A-304)
+28Z23
+Z
+Irradiation externe avec système de repositionnement
+(A-318)
+28Z24
+Z
+Irradiation externe avec collimateur multilame ou
+imagerie portale (A-319)
+28Z25
+Z
+Autre irradiation externe (A-320)
+90Z02Z
+28Z14
+Z
+Séance de transfusion sanguine (D-139)
+28Z15
+Z
+Séance d'oxygénothérapie hyperbare en caisson (D-047)
+28Z16
+Z
+Séance d'aphérèse sanguine (D-054)
+90Z02Z
+90Z01Z
+CM27 CMD26
+CMD25
+CMD01-23
+11
+CATÉGORIE MAJEURE N°27
+Transplantations d'organes
+Acte op. de la CM 27
+27C02
+1
+Transplantation hépatique (A-139)
+27C03
+1
+Transplantation pancréatique (A-140)
+27C04
+1
+Transplantation pulmonaire (A-141)
+27C05
+1
+Transplantation cardiaque (A-027)
+27C06
+1
+Transplantation rénale (A-093)
+27C07
+1
+Autre transplantation (A-265)
+90Z02Z
+DS
+Greffe de cellule souche
+hématopoïétique  (A-138)
+27Z04
+J=0 jour
+27Z02
+1
+Allogreffe de cellule souche hématopoïétique  (A-178)
+27Z03
+Z
+CMD 26
+CMD 25
+CMD 01-23
+12
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°26
+Traumatismes multiples graves
+Traumatisme
+(D-130)
+Tête (D-131)
+Thorax (D-132)
+Thorax (D-132)
+Abdomen (D-133)
+Abdomen
+(D-133)
+Colonne, bassin
+(D-134)
+Colonne,
+bassin (D-134)
+Rein (D-135)
+Rein (D-135)
+Génito-urinaire
+(D-136)
+Génito-urinaire
+(D-136)
+Membre supérieur
+(D-137)
+Membre
+supérieur
+(D-137)
+Membre inférieur
+(D-138)
+CMD25
+CMD01-23
+26C02
+1
+Acte opératoire
+26M02
+1
+13
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°25
+Maladies dues à une infection par le VIH
+Infection symptomatique par le
+VIH (D-127)
+Diagnostic lié
+au VIH (D-128)
+Infection symptomatique par le
+VIH (D-127)
+Diagnostic lié
+au VIH (D-128)
+CM15
+CMD01-14
+CMD16-23
+MS
+25Z02
+E
+Décès
+Âge
+25Z03
+1
+< 13 ans
+25C02
+1
+Acte opératoire
+25M02
+C
+Complication infectieuse de la maladie à VIH (D-129)
+25M02
+B
+Complication infectieuse de la maladie à VIH (D-129)
+25M02
+T
+A
+14
+CATÉGORIE MAJEURE N°15
+Nouveau-nés, prématurés et affections de la période périnatale
+Âge
+< 8 jours
+ME
+Âge
+Transfert, Mutation, PIE
+< 29 jours
+Âge
+Poids
+< 1an
+< 2500 g
+CMD01-14
+CMD16-23
+CM15
+15
+CM15
+15Z10
+E
+Mort-né (D-056)
+Acte
+opératoire
+GNN
+égal
+10
+15C06
+B
+Pb maj des groupes chir et des
+groupes méd 1 à 2 (D-303)
+15C06
+A
+GNN
+8 à 9
+15C05
+B
+Pb maj des groupes chir et des
+groupes méd 1 à 2 (D-303)
+15C05
+A
+GNN
+1 à 7
+Intervention
+majeure
+digestive
+(A-337)
+15C02
+B
+Pb maj des
+groupes
+chir et des
+groupes
+méd 1 à 2
+(D-303)
+15C02
+A
+Intervention
+majeure
+cardiaque
+(A-338)
+15C03
+B
+Pb maj des
+groupes
+chir et des
+groupes
+méd 1 à 2
+(D-303)
+15C03
+A
+15C04
+B
+Pb maj des groupes chir et des
+groupes méd 1 à 2 (D-303)
+15C04
+A
+90Z02Z
+1
+16
+1
+MS
+Dest
+Transfert
+Durée
+MCO
+15M02
+Z
+< 4j
+MS
+Durée
+Décès
+15M03
+E
+< 4j
+15M04
+E
+GNN
+1 = 3300g et 40 SA
+15M05
+D
+Problème majeur des groupes chirurgicaux et des
+groupes médicaux 1 à 2 (D-303)
+15M05
+C
+Problème sévère des groupes 1 à 2 (D-304)
+15M05
+B
+Autre problème des groupes 1 à 2 (D-305)
+15M05
+A
+GNN
+2 = 2400g et 38 SA
+15M06
+D
+Problème majeur des groupes chirurgicaux et des
+groupes médicaux 1 à 2 (D-303)
+15M06
+C
+Problème sévère des groupes 1 à 2 (D-304)
+15M06
+B
+Autre problème des groupes 1 à 2 (D-305)
+15M06
+A
+GNN
+3 = 2200g et 37 SA
+15M07
+C
+Problème sévère des groupes 3 à 7 (D-306)
+2
+3
+17
+2
+3
+15M07
+B
+Autre problème des groupes 3 à 7 (D-307)
+15M07
+A
+GNN
+4 = 2000g et 37 SA
+15M08
+C
+Problème sévère des groupes 3 à 7 (D-306)
+15M08
+B
+Autre problème des groupes 3 à 7 (D-307)
+15M08
+A
+GNN
+5 = 1800g et 36 SA
+15M09
+C
+Problème sévère des groupes 3 à 7 (D-306)
+15M09
+B
+Autre problème des groupes 3 à 7 (D-307)
+15M09
+A
+GNN
+6 = 1700g et 35 SA
+15M10
+C
+Problème sévère des groupes 3 à 7 (D-306)
+15M10
+B
+Autre problème des groupes 3 à 7 (D-307)
+15M10
+A
+GNN
+7 = 1500g et 33 SA
+15M11
+C
+Problème sévère des groupes 3 à 7 (D-306)
+15M11
+B
+Autre problème des groupes 3 à 7 (D-307)
+15M11
+A
+4
+18
+4
+GNN
+8 = 1300g et 32 SA
+15M12
+B
+Problème spécifique des groupes 8 à 10 (D-309)
+15M12
+A
+GNN
+9 = 1100g et 30 SA
+15M13
+B
+Problème spécifique des groupes 8 à 10 (D-309)
+15M13
+A
+GNN
+10 = 800g et 28 SA
+15M14
+B
+Problème spécifique des groupes 8 à 10 (D-309)
+15M14
+A
+90Z02Z
+19
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°01
+Affections du système nerveux
+CMD 01
+Acte op. de
+la CMD 01
+01C09
+1
+Pose d'un stimulateur cérébral (A-195)
+Age
+Craniotomie (A-002)
+<18
+ans
+01C11
+1
+Tumeur
+cérébrale
+(D-039)
+01C12
+1
+01C03
+1
+Traumatisme crânien (D-092)
+01C04
+1
+01C10
+J
+1
+Pose d'un stimulateur médullaire ou radiculaire (A-196)
+01C05
+1
+Itv. sur le rachis (A-003)
+01C06
+1
+Itv. sur le système vasc. extracrânien (A-004)
+01C14
+J
+1
+Libération de nerf sauf canal carpien (A-346)
+01C15
+J
+1
+Libération du canal carpien (A-005)
+01C15
+J
+1
+Syndrome du canal carpien (D-326)
+01C08
+J
+1
+Autre itv. de la CMD 01 (A-006)
+Embolisation intracrânienne ou
+médullaire  (A-197)
+01K07
+1
+Hémorragie cérébrale (D-067)
+01K02
+1
+1
+20
+1
+01K03
+1
+Autre acte thérap. par voie vasc. de la CMD 01  (A-198)
+DS
+MS
+<2
+jours
+Décès
+01M36
+E
+AVC non transitoire (D-064)
+01M37
+E
+DS
+=0 jour
+01K04
+JInjection de toxine botulique  (A-266)
+01K06
+JAnesthésie (activité=4)
+01M32
+Z
+Exploration ou surveillance de la CMD 01 (D-057)
+01M22
+T
+1
+Migraine ou céphalée (D-0101)
+01M23
+1
+Convulsion hyperthermique (D-0102)
+Age
+Épilepsie (D-0103)
+01M24
+T
+1
+<18 ans
+01M25
+T
+1
+01M04
+T
+1
+Méningite virale (D-0104)
+01M05
+T
+1
+Infection du système nerveux sauf méningite virale (D-0105)
+01M26
+T
+1
+Tumeur maligne du système nerveux (D-0106)
+2
+21
+2
+01M27
+T
+1
+Autre tumeur du système nerveux (D-0107)
+Age
+Maladie dégénérative du
+système nerveux
+(D-0108)
+01M07
+T
+1
+>79 ans
+01M08
+T
+1
+01M28
+T
+1
+Hydrocéphalie (D-0109)
+01M09
+T
+1
+Affection ou lésion du rachis ou de la moelle (D-0110)
+01M29
+1
+Anévrysme cérébral non rompu (D-0111)
+01M10
+T
+1
+Autre affection cérébrovasculaire (D-0112)
+01M11
+T
+1
+Affection de nerf crânien ou rachidien (D-0113)
+01M12
+T
+1
+Autre affection du système nerveux (D-0114)
+01M13
+1
+Trouble de la conscience ou coma d'origine non traumatique (D-0115)
+01M33
+1
+Trouble du sommeil (D-0116)
+01M30
+T
+1
+Accident vasc. intracérébral non transitoire (D-0117)
+01M31
+T
+1
+Autre accident vasc. cérébral non transitoire (D-0118)
+3
+22
+3
+Age
+Accident ischémique
+transitoire (D-0119)
+01M15
+T
+1
+>79 ans
+01M16
+T
+1
+01M17
+T
+1
+Sclérose en plaque ou ataxie cérébelleuse (D-0120)
+Lésion crânienne ou
+cérébrale traumatique
+(D-0121)
+01M18
+T
+1
+Lésion traumatique intracrânienne sévère (D-124)
+01M19
+1
+Autre lésion traumatique intracrânienne, sauf commotion
+(D-125)
+01M20
+1
+DS
+Douleur chronique
+rebelle (D-0122)
+=0 jour
+01K05
+JBloc sympathique
+médicamenteux  (A-267)
+01M21
+T
+1
+01M21
+T
+1
+01M32
+Z
+Exploration ou surveillance de la CMD 01 (D-0123)
+01M35
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 01 (D-0124)
+01M34
+T
+Z
+Anomalie de la démarche ou trouble apparenté (D-0125)
+01M38
+1
+Autre affection neurologique du nouveau-né (D-0126)
+01M39
+1
+Trouble de la régulation thermique du nouveau-né (D-0127)
+23
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°02
+Affections de l'oeil
+CMD 02
+Acte op. de
+la CMD 02
+02C09
+J
+1
+Allogreffe de cornée (A-213)
+02C02
+J
+1
+Itv. sur la rétine (A-007)
+02C03
+J
+1
+Itv. sur l'orbite (A-008)
+Itv. sur le
+cristallin,
+vitrectomie ou
+autre itv.
+intraoculaire
+(A-305)
+Autre itv. intraoculaire ou
+vitrectomie (A-306)
+02C10
+J
+1
+Affection
+oculaire
+sévère
+(D-068)
+Itv. sur le
+cristallin
+(A-010)
+02C12
+J
+1
+Itv. pour hypertonie intraoculaire
+(A-303)
+02C05
+J
+1
+02C11
+J
+1
+02C06
+J
+1
+Itv. primaire sur l'iris (A-012)
+Age
+Itv. extraoculaire sauf orbite
+(A-013)
+<18
+ans
+02C13
+J
+1
+Itv. sur le
+muscle
+oculomoteur
+(A-347)
+02C07
+J
+1
+02C08
+J
+1
+02M09
+Z
+Exploration ou surveillance de la CMD 02 (D-057)
+1
+24
+1
+02M02
+1
+Hyphéma (D-0201)
+02M03
+1
+Infection oculaire aigüe sévère (D-0202)
+02M04
+T
+1
+Affection oculaire d'origine neurologique (D-0203)
+Age
+Autre affection oculaire
+(D-0204)
+02M05
+T
+1
+<18 ans
+02M07
+T
+1
+Diabète avec atteinte oculaire (D-058)
+02M08
+T
+1
+02M09
+Z
+Exploration ou surveillance de la CMD 02 (D-0205)
+02M10
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 02 (D-0206)
+25
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°03
+Affections des oreilles, du nez, de la gorge, de la bouche et des dents
+CMD 03
+Acte op. de
+la CMD 03
+03C25
+1
+Itv. maj. sur la tête ou le cou (A-291)
+03C26
+1
+Autre itv. sur la tête ou le cou (A-014)
+03C18
+1
+Pose d'implant cochléaire (A-199)
+03C24
+J
+1
+Itv. sur glande salivaire (A-287)
+03C05
+T
+1
+Réparation de fissure labiale ou palatine (A-017)
+03C19
+J
+1
+Ostéotomie de la face (A-214)
+Age
+Itv. sur le sinus ou l'apophyse
+mastoïde (A-018)
+03C06
+J
+1
+<18 ans
+03C07
+J
+1
+03C20
+J
+1
+Itv. de reconstruction de l'oreille moyenne (A-229)
+03C21
+J
+1
+Itv. pour oreille décollée (A-230)
+03C09
+J
+1
+Rhinoplastie (A-020)
+DS
+=0 jour
+03C27
+JItv. sur les amygdales (A-339)
+03C28
+JItv. sur les végétations adénoïdes (A-340)
+1
+2
+26
+1
+2
+Age
+Amygdalectomie ou
+adénoïdectomie isolée (A-021)
+03C10
+1
+<18 ans
+03C11
+1
+Age
+Itv. sur amygdales ou
+végétations adénoïdes (A-022)
+03C12
+1
+<18 ans
+03C13
+1
+Age
+Drainage transtympanique
+(A-023)
+03C14
+J
+1
+<18 ans
+03C15
+J
+1
+Autre itv. sur l'oreille, le nez ou la
+gorge (A-024)
+03C29
+J
+1
+Tumeur maligne ORL (D-0305)
+03C17
+J
+1
+Certaine affection dentaire
+(D-328)
+03C16
+J
+1
+03C30
+J
+1
+Itv. sur l'oreille externe (A-348)
+03C17
+J
+1
+Itv. sur la bouche (A-132)
+DS
+=0 jour
+03K03
+JEndoscopie ORL  (A-227)
+03K04
+JActe classant non opératoire de la CMD 03 (A-268)
+3
+27
+3
+03M14
+Z
+Exploration ou surveillance de la CMD 03 (D-057)
+03M02
+T
+1
+Traumatisme du nez ou déformation nasale (D-0301)
+Age
+Otite moyenne ou
+infection de voie
+aérienne supérieure
+(D-0302)
+<18
+ans
+03M12
+1
+Infection aigüe sévère des VAS
+de l'enfant (D-059)
+03M03
+T
+1
+03M13
+1
+Infection aigüe sévère des VAS de l'adulte (D-060)
+03M04
+T
+1
+03M05
+T
+1
+Trouble de l'équilibre (D-0303)
+03M06
+T
+1
+Épistaxis (D-0304)
+03M07
+T
+1
+Tumeur maligne ORL (D-0305)
+Age
+Autre affection
+ORL-Stomato (D-0306)
+03M08
+T
+1
+<18 ans
+03M09
+T
+1
+Affection de la bouche ou
+d'une dent (D-0307)
+03K02
+J
+1
+Certaine extraction, réparation ou prothèse dentaire 
+(A-053)
+Age
+03M10
+T
+1
+<18 ans
+03M11
+T
+1
+03M14
+Z
+Exploration ou surveillance de la CMD 03 (D-0308)
+03M15
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 03 (D-0309)
+28
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°04
+Affections de l'appareil respiratoire
+CMD 04
+Acte op. de
+la CMD 04
+04C02
+1
+Itv. maj. sur le thorax (A-025)
+04C04
+1
+Itv. sous thoracoscopie (A-286)
+04C03
+1
+Autre itv. sur le système respiratoire (A-026)
+DS
+=0 jour
+04K02
+JEndoscopie bronchique  (A-228)
+DS
+MS
+<2
+jours
+04M24
+E
+Décès
+04M22
+Z
+Exploration ou surveillance de la CMD 04 (D-057)
+Age
+Bronchite ou asthme (D-0401)
+04M02
+T
+1
+<18 ans
+04M03
+T
+1
+04M18
+T
+1
+Bronchiolite (D-0402)
+Age
+Pneumopathie ou pleurésie banale (D-0403)
+04M04
+1
+<18 ans
+04M05
+T
+1
+04M25
+T
+1
+Grippe (D-0404)
+1
+29
+1
+Age
+Infection ou inflammation respiratoire (D-0405)
+04M06
+T
+1
+<18 ans
+04M07
+T
+1
+04M26
+T
+1
+Fibrose kystique (D-0406)
+04M19
+T
+1
+Tuberculose (D-0407)
+Bronchopneumopathie chronique obstructive
+(D-0408)
+04M20
+T
+1
+Bronchopneumopathie chronique
+surinfectée (D-061)
+04M08
+T
+1
+04M09
+T
+1
+Tumeur de l'appareil respiratoire (D-0409)
+04M10
+T
+1
+Embolie pulmonaire (D-0410)
+04M11
+1
+Signe ou symptôme respiratoire (D-0411)
+04M12
+T
+1
+Pneumothorax (D-0412)
+04M13
+T
+1
+Oedème pulmonaire ou détresse respiratoire (D-0413)
+04M14
+T
+1
+Maladie pulmonaire interstitielle (D-0414)
+04M15
+T
+1
+Autre affection de l'appareil respiratoire (D-0415)
+04M16
+T
+1
+Traumatisme thoracique (D-0416)
+2
+30
+2
+04M17
+T
+1
+Épanchement pleural (D-0417)
+04M21
+1
+Suivi de greffe pulmonaire (D-0418)
+04M23
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 04 (D-0419)
+04M22
+Z
+Exploration ou surveillance de la CMD 04 (D-0420)
+04M27
+1
+Autre affection respiratoire du nouveau-né (D-0421)
+31
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°05
+Affections de l'appareil circulatoire
+CMD 05
+Acte op. de
+la CMD 05
+Itv. de remplacement valvulaire
+avec CEC (A-028)
+05C02
+1
+Cathétérisme card. ou coronarographie
+(A-029)
+05C03
+1
+A
+cte interventionnel m
+ajeur
+Pontage aortocoronarien (A-030)
+05C04
+1
+Cathétérisme card. ou coronarographie
+(A-029)
+05C05
+1
+Autre itv. de chirurgie
+cardiothoracique (A-031)
+Age
+Acte
+sous
+CEC
+(A-032)
+05C06
+1
+> 1 an
+05C07
+1
+Age
+05C08
+T
+1
+> 1 an
+05C09
+1
+Autre itv. de chirurgie vasc.
+(A-033)
+05C06
+1
+Acte sous CEC (A-032)
+05C10
+1
+Itv. maj. de revascularisation (A-034)
+05C11
+1
+05C12
+1
+Amputation autre que membre sup. ou orteil (A-035)
+1
+2
+32
+1
+2
+05C13
+J
+1
+Amputation de membre sup. ou d'orteil (A-036)
+05C19
+T
+1
+Pose d'un défibrillateur cardiaque (A-187)
+05K21
+1
+Pose de bioprothèse de valve cardiaque (A-350)
+Pose d'un stimulateur cardiaque
+permanent (A-037)
+05C14
+1
+Insuffisance cardiaque congestive
+(D-093)
+05C15
+T
+1
+05C22
+T
+1
+Remplacement de stimulateur cardiaque (A-294)
+05C20
+1
+Remplacement ou ablation chir. d'électrode ou de boîtier de stimulateur cardiaque
+(A-039)
+05C17
+J
+1
+Ligature de veine ou éveinage (A-040)
+05C21
+J
+1
+Création ou réfection de fistule artérioveineuse (A-183)
+05C18
+J
+1
+Autre itv. sur le système circulatoire (A-041)
+DS
+<2 jours
+05K14
+Z
+Mise en place de certain accès vasc. (A-168)
+05K19
+1
+Traitement maj. de trouble du rythme par voie vasc. (A-321)
+3
+33
+3
+05K20
+T
+1
+Autre traitement de trouble du rythme par voie vasc. (A-322)
+Endoprothèse coronarienne ou
+vasc. périphérique (A-172)
+05K05
+1
+Infarctus aigu du myocarde (D-102)
+05K06
+T
+1
+DS
+Infarctus aigu du myocarde
+(D-102)
+MS
+<2
+jours
+05M21
+E
+Décès
+05M04
+T
+1
+05M04
+T
+1
+Age
+Autre acte thérap. par voie
+vasc. (A-188)
+05K12
+1
+<18 ans
+05K22
+1
+Acte thérap. sur les orifices du coeur (A-351)
+05K23
+J
+1
+Ablation, repositionnement ou pose de sonde de stimulation
+supplémentaire (A-352)
+05K24
+J
+1
+Dilatation coronaire ou autre acte thérap. sur le coeur (A-353)
+05K25
+J
+1
+Acte thérap. sur les artères (A-354)
+05K26
+J
+1
+Acte thérap. sur les veines ou accès vasc. (A-355)
+Surveillance de greffe de coeur
+(D-035)
+05K15
+J
+1
+Acte diagnostique par voie vasc. de la CMD 05 (A-211)
+05M19
+1
+4
+34
+4
+05K10
+J
+1
+Acte diagnostique par voie vasc. de la CMD 05 (A-211)
+DS
+=0 jour
+05K17
+JAnesthésie (activité=4)
+DS
+MS
+<2 jours
+05M22
+E
+Décès
+05M20
+Z
+Exploration ou surveillance de la CMD 05 (D-057)
+05M05
+T
+1
+Syncope ou lipothymie (D-0501)
+05M06
+T
+1
+Angine de poitrine (D-0502)
+05M07
+T
+1
+Thrombophlébite veineuse profonde (D-0503)
+05M08
+T
+1
+Arythmie ou trouble de la conduction (D-0504)
+05M09
+T
+1
+Insuffisance cardiaque ou état de choc (D-0505)
+Age
+Cardiopathie congénitale ou valvulopathie
+(D-0506)
+05M10
+T
+1
+<18 ans
+05M11
+T
+1
+05M12
+T
+1
+Trouble vasc. périphérique (D-0507)
+05M13
+T
+1
+Douleur thoracique (D-0508)
+6
+35
+6
+05M14
+1
+Arrêt cardiaque (D-0509)
+05M15
+T
+1
+Hypertension artérielle (D-0510)
+05M16
+T
+1
+Athérosclérose coronarienne (D-0511)
+05M17
+T
+1
+Autre affection de l'appareil circulatoire (D-0512)
+05M18
+T
+1
+Endocardite aiguë ou subaiguë (D-0513)
+05M23
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 05 (D-0514)
+05M20
+Z
+Exploration ou surveillance de la CMD 05 (D-0515)
+36
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°06
+Affections du tube digestif
+CMD
+06
+Acte op. de
+la CMD 06
+06C03
+1
+Résection rectale (A-042)
+06C04
+1
+Itv. maj. sur le côlon ou l'intestin grêle (A-043)
+Age
+Itv. sur l'oesophage, l'estomac ou le
+duodénum (A-044)
+06C05
+1
+<18 ans
+06C16
+1
+Tumeur maligne de l'appareil
+digestif (D-040)
+06C20
+1
+Ulcère digestif (D-065)
+06C22
+1
+06C07
+1
+Itv. mineure sur le côlon ou l'intestin grêle (A-046)
+06C23
+J
+1
+Certain soin de stomie (A-290)
+Appendicectomie (A-047)
+06C08
+1
+Appendicite avec complication
+(D-094)
+06C09
+1
+Age
+Itv. réparatrice pour hernie
+abdominale (A-048)
+06C10
+J
+1
+<18 ans
+06C24
+J
+1
+Cure d'éventration post-opératoire
+(A-356)
+06C25
+J
+1
+Itv. réparatrice pour hernie sauf
+inguinale, crurale ou eventration
+(A-365)
+06C12
+J
+1
+06C13
+1
+Libération d'adhérence péritonéale (A-045)
+1
+2
+37
+1
+2
+06C19
+J
+1
+Hémorroïdectomie (A-189)
+06C14
+J
+1
+Itv. sur le rectum ou l'anus sauf résection rectale (A-050)
+06C21
+1
+Autre itv. sur l'appareil digestif par laparotomie (A-288)
+06C15
+1
+Autre itv. sur l'appareil digestif en dehors de laparotomie (A-052)
+DS
+<2
+jours
+Endoscopie digestive thérap.  (A-222)
+06K02
+Z
+Anesthésie (activité=4)
+DS
+=0 jour
+06K03
+JEndoscopie digestive thérap.  (A-222)
+Endoscopie digestive diagnostique 
+(A-223)
+06K04
+JAnesthésie (activité=4)
+06K05
+J
+06K06
+JAnesthésie (activité=4)
+06M16
+Z
+Exploration ou surveillance de la CMD 06 (D-057)
+3
+38
+3
+06M19
+1
+Affection sévère du tube digestif (D-0601)
+Age
+Autre gastroentérite ou maladie diverse du tube
+digestif (D-0602)
+06M02
+T
+1
+<18 ans
+06M03
+T
+1
+06M12
+T
+1
+Douleur abdominale (D-0603)
+06M04
+T
+1
+Hémorragie digestive (D-0604)
+06M13
+T
+1
+Tumeur maligne de l'oesophage ou de l'estomac (D-0605)
+06M05
+T
+1
+Autre tumeur maligne de l'appareil digestif (D-0606)
+06M14
+1
+Invagination intestinale aigüe (D-0607)
+06M06
+T
+1
+Occlusion intestinale (D-0608)
+06M07
+T
+1
+Maladie inflammatoire de l'intestin (D-0609)
+Age
+Autre affection digestive (D-0610)
+06M08
+T
+1
+<18 ans
+06M09
+T
+1
+06M20
+T
+1
+Tumeur bénigne de l'appareil digestif (D-0611)
+06M10
+1
+Ulcère gastroduodénal compliqué (D-0612)
+4
+39
+4
+06M11
+T
+1
+Ulcère gastroduodénal non compliqué (D-0613)
+06M15
+Z
+Suivi de greffe de l'appareil digestif (D-0614)
+06M17
+T
+Z
+Soin de stomie digestive (D-0615)
+06M18
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 06 (D-0616)
+06M16
+Z
+Exploration ou surveillance de la CMD 06 (D-0617)
+06M21
+1
+Autre affection digestive du nouveau-né (D-0618)
+40
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°07
+Affections du système hépatobiliaire et du pancréas
+CMD 07
+Acte op. de
+la CMD 07
+Itv. sur le foie, le pancréas ou la
+veine porte ou cave (A-144)
+07C09
+1
+Tumeur maligne du système
+hépatobiliaire ou du pancréas
+(D-041)
+07C10
+1
+07C11
+1
+Dérivation biliaire (A-231)
+07C12
+1
+Autre itv. sur la voie biliaire sauf cholécystectomie isolée (A-232)
+Cholécystectomie isolée (A-056)
+07C13
+1
+Affection biliopancréatique aigüe
+(D-066)
+07C14
+J
+1
+Itv. diagnostique sur le système
+hépatobiliaire ou le pancréas
+(A-059)
+07C06
+1
+Affection maligne du système
+hépatobiliaire ou du pancréas
+(D-0709)
+07C07
+1
+07C08
+1
+Autre itv. sur le système hépatobiliaire ou le pancréas (A-060)
+07K06
+1
+Acte thérap. par voie vasc. sur le système hépatobiliaire  (A-366)
+DS
+<2
+jours
+Endoscopie biliaire thérap. 
+(A-219)
+07K02
+Z
+Anesthésie (activité=4)
+1
+41
+1
+DS
+=0 jour
+Endoscopie des voies biliaires 
+(A-218)
+07K04
+JAnesthésie (activité=4)
+07K05
+J
+07M13
+Z
+Exploration ou surveillance de la CMD 07 (D-057)
+07M02
+T
+1
+Affection des voies biliaires (D-0701)
+07M07
+T
+1
+Cirrhose alcoolique (D-0702)
+07M08
+T
+1
+Autre cirrhose ou fibrose hépatique (D-0703)
+07M15
+T
+1
+Affection hépatique sévère (D-0704)
+07M04
+T
+1
+Autre affection hépatique (D-0705)
+07M09
+T
+1
+Hépatite chronique (D-0706)
+07M10
+T
+1
+Pancréatite aigüe (D-0707)
+07M11
+T
+1
+Autre affection non maligne du pancréas (D-0708)
+07M06
+T
+1
+Affection maligne du système hépatobiliaire ou du pancréas (D-0709)
+07M12
+1
+Suivi de greffe hépatique ou pancréatique (D-0710)
+2
+42
+2
+07M13
+Z
+Exploration ou surveillance de la CMD 07 (D-0711)
+07M14
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 07 (D-0712)
+07M16
+1
+Ictère du nouveau-né (D-0713)
+43
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°08
+Affections et traumatismes de l'appareil musculosquelettique et du tissu conjonctif
+CMD 08
+Acte op. de
+la CMD 08
+Infection ostéoarticulaire (D-077)
+08C61
+1
+Itv. maj. pour infection
+ostéoarticulaire (A-368)
+08C62
+J
+1
+08C02
+1
+Itv. maj. multiple sur le genou ou la hanche (A-061)
+08C22
+1
+Itv. pour reprise de prothèse articulaire (A-200)
+Prothèse de hanche (A-201)
+08C47
+1
+Certaine lésion traumatique
+(D-069)
+08C48
+1
+08C24
+1
+Prothèse de genou (A-202)
+08C25
+1
+Prothèse d'épaule (A-203)
+Age
+Itv. sur la hanche ou la cuisse
+sauf prothèse de hanche
+(A-063)
+08C04
+1
+<18 ans
+08C49
+1
+Certaine lésion traumatique
+(D-069)
+08C50
+1
+08C06
+1
+Amputation (A-065)
+Itv. maj. sur la colonne vertébrale
+(A-191)
+08C51
+1
+Fracture du rachis, cyphose ou
+scoliose (D-070)
+08C52
+1
+1
+2
+44
+1
+2
+08C27
+1
+Autre itv. sur la colonne vertébrale (A-066)
+08C28
+J
+1
+Itv. maxillofaciale (A-233)
+Age
+Itv. sur la jambe (A-273)
+08C31
+1
+<18 ans
+08C32
+J
+1
+Itv. sur la jambe sauf libération
+articulaire (A-357)
+08C57
+J
+1
+Itv. sur le genou (A-069)
+08C53
+1
+Certaine lésion traumatique
+(D-069)
+08C54
+J
+1
+Itv. sur la cheville ou l'arrière-pied
+(A-274)
+08C55
+1
+Fracture de la cheville ou de
+l'arrière-pied (D-071)
+08C33
+1
+Itv. sur tissu mou (A-074)
+08C29
+J
+1
+Tumeur maligne du tissu
+conjonctif (D-042)
+08C34
+J
+1
+Itv. sur ligament croisé sous arthroscopie (A-275)
+08C35
+J
+1
+Itv. sur le bras, coude ou épaule (A-276)
+Age
+Itv. sur le pied (A-073)
+08C36
+J
+1
+<18 ans
+08C37
+J
+1
+3
+4
+45
+3
+4
+08C38
+J
+1
+Autre arthroscopie du genou (A-277)
+08C39
+J
+1
+Itv. sur l'avant-bras (A-278)
+08C13
+J
+1
+Résec. osseuse local. ou ablation de matériel de fixation : hanche ou fémur
+(A-070)
+08C14
+J
+1
+Résec. osseuse local. ou ablation de matériel de fixation : autre localisation
+(A-071)
+08C58
+J
+1
+Arthroscopie de l'épaule (A-358)
+08C40
+J
+1
+Arthroscopie : autre localisation (A-279)
+08C60
+J
+1
+Itv. sur le poignet (A-280)
+08C59
+J
+1
+Synovectomie ou ténosynovectomie du poignet (A-359)
+08C42
+J
+1
+Itv. maj. sur tissu mou (A-281)
+08C43
+J
+1
+Itv. maj. sur la main (A-282)
+08C44
+J
+1
+Autre itv. sur la main (A-283)
+08C45
+J
+1
+Ménisectomie sous arthroscopie (A-284)
+08C46
+J
+1
+Autre itv. sur tissu mou (A-285)
+08C20
+J
+1
+Greffe de peau (A-064)
+5
+6
+46
+5
+6
+08C12
+J
+1
+Biopsie ostéoarticulaire (A-067)
+08C21
+J
+1
+Autre itv. de la CMD 08 (A-077)
+DS
+=0 jour
+08K02
+JAnesthésie (activité=4)
+08K04
+1
+Traction continue ou réduction progressive : hanche ou fémur  (A-289)
+08K03
+1
+Autre traction continue ou réduction progressive  (A-270)
+08M35
+Z
+Exploration ou surveillance de la CMD 08 (D-057)
+Age
+Fracture, entorse,
+luxation du bras ou de
+l'avant-bras (D-0801)
+08M20
+1
+<18 ans
+08M37
+T
+1
+Fracture du bras ou de l'avant-bras (D-072)
+08M21
+1
+08M22
+1
+Fracture, entorse, luxation de la main (D-0802)
+08M23
+1
+Fracture, entorse, luxation du pied (D-0803)
+08M04
+T
+1
+Fracture de la hanche ou du bassin (D-0804)
+7
+47
+7
+08M05
+T
+1
+Fracture du fémur (D-0805)
+Age
+Fracture, entorse, luxation de la jambe (sauf
+avant-pied) (D-0806)
+08M06
+T
+1
+<18 ans
+08M07
+T
+1
+08M08
+T
+1
+Entorse ou luxation du bassin ou de la hanche (D-0807)
+08M09
+T
+1
+Arthropathie non spécifique (D-0808)
+08M10
+T
+1
+Maladie osseuse ou arthropathie spécifique (D-0809)
+08M24
+T
+1
+Tumeur maligne de os (D-0810)
+08M25
+T
+1
+Fracture pathologique ou autre affection maligne de l'appareil musculosquelettique ou du tissu
+conjonctif (D-0811)
+08M38
+T
+1
+Entorse ou luxation du rachis (D-0812)
+08M26
+1
+Fracture du rachis (D-0813)
+08M27
+T
+1
+Sciatique ou autre radiculopathie (D-0814)
+08M28
+T
+1
+Autre rachialgie (D-0815)
+08M29
+T
+1
+Autre pathologie rachidienne relevant d'un traitement médical (D-0816)
+8
+48
+8
+08M30
+T
+1
+Rhumatisme ou raideur articulaire (D-0817)
+08M14
+T
+1
+Affection du tissu conjonctif (D-0818)
+08M15
+T
+1
+Tendinite, myosite ou bursite (D-0819)
+08M31
+T
+1
+Ostéomyélite aigüe (y compris vertébrale) ou arthrite septique (D-0820)
+08M32
+T
+1
+Ostéomyélite chronique (D-0821)
+08M18
+T
+1
+Suite de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif
+(D-0822)
+08M33
+T
+1
+Ablation de matériel sans acte classant (D-0823)
+08M19
+T
+1
+Autre affection de l'appareil musculosquelettique ou du tissu conjonctif (D-0824)
+08M34
+T
+1
+Algoneurodystrophie (D-0825)
+08M36
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 08 (D-0826)
+08M35
+Z
+Exploration ou surveillance de la CMD 08 (D-0827)
+49
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°09
+Affections de la peau, des tissus sous-cutanés et des seins
+CMD 09
+Itv. à visée
+esthétique
+(D-012)
+09Z02
+B
+Complication spécifique après chirurgie esthétique (D-335)
+09Z02
+A
+Acte op. de
+la CMD 09
+Greffe de peau ou parage de plaie
+(A-078)
+09C02
+J
+1
+Ulcère cutané ou cellulite (D-096)
+09C11
+1
+Reconstruction du sein (A-292)
+Itv. sur le
+sein (A-079)
+Lésion
+maligne du
+sein
+(D-0908)
+09C04
+1
+Mastectomie totale (A-080)
+09C05
+J
+1
+09C06
+T
+1
+Itv. sur le sein sauf biopsie ou excision locale (A-081)
+09C07
+J
+1
+Greffe de
+peau ou
+parage de
+plaie
+(A-078)
+09C12
+J
+1
+Kyste ou granulome (D-329)
+09C03
+J
+1
+Greffe de peau ou parage de plaie sauf acte sur l'ongle
+(A-360)
+09C12
+J
+1
+Itv. sur la
+région
+anale ou
+périanale
+(A-082)
+09C13
+J
+1
+Condylome anogénitaux (D-330)
+09C08
+J
+1
+1
+2
+50
+1
+2
+09C09
+J
+1
+Itv. plastique sur la peau ou le tissu souscutané (A-083)
+Autre itv. sur la peau, le tissu
+souscutané ou le sein (A-084)
+09C12
+J
+1
+Ongle incarné ou kyste (D-331)
+09C14
+J
+1
+Certain curage ganglionnaire
+(A-361)
+09C15
+J
+1
+Lésion traumatique de la peau, du
+tissu sous-cutané ou du sein
+(D-332)
+09C10
+J
+1
+DS
+=0 jour
+09K02
+JAnesthésie (activité=4)
+Exploration ou surveillance de la CMD 09 (D-057)
+09M12
+Z
+Affection de la peau (D-075)
+09M13
+Z
+Affection du sein (D-076)
+Age
+Traumatisme de la peau, de tissu souscutané
+(D-0901)
+09M02
+T
+1
+<18 ans
+09M03
+T
+1
+Age
+Lésion, infection ou inflammation de la peau ou
+de tissu souscutané (D-0902)
+09M04
+T
+1
+<18 ans
+09M05
+T
+1
+3
+51
+3
+09M06
+T
+1
+Ulcère cutané (D-0903)
+09M11
+T
+1
+Tumeur de la peau (D-0904)
+09M07
+T
+1
+Autre affection dermatologique (D-0905)
+09M08
+T
+1
+Affection dermatologique sévère (D-0906)
+09M09
+T
+1
+Affection non maligne du sein (D-0907)
+09M10
+T
+1
+Cancer du sein (D-0908)
+09M14
+T
+Z
+Autre symptôme ou recours aux soins pour affection de la peau (D-0909)
+09M15
+Z
+Autre symptôme ou recours aux soins pour affection du sein (D-0910)
+09M12
+Z
+Exploration ou surveillance d'une affection de la peau (D-0911)
+09M13
+Z
+Exploration ou surveillance d'une affection du sein (D-0912)
+52
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°10
+Affections endocriniennes, métaboliques et nutritionnelles
+CMD 10
+Acte op. de
+la CMD 10
+10C02
+1
+Itv. sur l'hypophyse (A-174)
+10C03
+1
+Itv. sur glande surrénale (A-175)
+10C09
+1
+Gastroplastie pour obésité (A-204)
+10C13
+1
+Itv. digestive autre que gastroplastie pour obésité (A-258)
+10C10
+1
+Autre itv. pour obésité (A-088)
+10C05
+1
+Itv. sur glande parathyroïde (A-089)
+Itv. sur la
+glande
+thyroïde
+(A-090)
+10C11
+1
+Tumeur maligne de la thyroïde (D-043)
+10C12
+1
+10C07
+1
+Itv. sur le tractus thyréoglosse (A-091)
+10C08
+J
+1
+Autre itv. de la CMD 10 (A-092)
+10M13
+T
+Z
+Exploration ou surveillance de la CMD 10 (D-057)
+1
+53
+1
+Age
+Diabète (D-1001)
+10M02
+T
+1
+>35 ans
+10M03
+T
+1
+10M08
+T
+1
+Acidocétose ou coma diabétique (D-1002)
+Age
+Trouble métabolique
+(D-1003)
+10M15
+T
+1
+<18 ans
+10M16
+T
+1
+Age
+Trouble nutritionnel
+divers (D-1004)
+10M17
+T
+1
+<18 ans
+10M18
+T
+1
+10M09
+T
+1
+Obésité (D-1005)
+10M10
+T
+1
+Maladie métabolique congénitale sévère (D-1006)
+10M11
+T
+1
+Autre maladie métabolique congénitale (D-1007)
+10M12
+T
+1
+Tumeur de glande endocrine (D-1008)
+10M07
+T
+1
+Autre trouble endocrinien (D-1009)
+10M14
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 10 (D-1010)
+10M13
+T
+Z
+Exploration ou surveillance de la CMD 10 (D-1011)
+10M19
+1
+Autre affection de la CMD 10 chez un nouveau-né (D-1012)
+10M20
+1
+Problème alimentaire du nouveau-né (D-1013)
+54
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°11
+Affections du rein et des voies urinaires
+CMD 11
+Acte op. de
+la CMD 11
+Itv. sur le rein, l'uretère ou maj. sur
+la vessie (A-094)
+11C02
+1
+Tumeur du rein ou des voies
+urinaires (D-1104)
+11C03
+1
+Itv. mineure sur la vessie (A-096)
+11C10
+J
+1
+Incontinence urinaire (D-333)
+11C04
+J
+1
+Itv. transurétrale ou par voie
+transcutanée, sauf prostatectomie
+(A-097)
+11C11
+J
+1
+Lithiase urinaire (D-1101)
+11C13
+J
+1
+11C12
+J
+1
+Injection de toxine botulique dans l'appareil urinaire (A-364)
+Age
+Itv. sur l'urètre (A-098)
+11C06
+1
+<18 ans
+11C07
+J
+1
+11C09
+J
+1
+Création ou réfection de fistule artérioveineuse (A-183)
+11C08
+T
+1
+Autre itv. sur le rein ou voie urinaire  (A-099)
+DS
+<2
+jours
+Endoscopie génito-urinaire thérap.
+ (A-225)
+11K03
+Z
+Anesthésie (activité=4)
+11K04
+Z
+1
+2
+55
+1
+2
+Endoscopie génito-urinaire
+diagnostique  (A-226)
+11K05
+Z
+Anesthésie (activité=4)
+11K06
+Z
+11K07
+Z
+Mise en place de certain accès vasc.  (A-168)
+DS
+=0 jour
+11K08
+JLithotritie extracorporelle de l'appareil urinaire  (A-051)
+11M18
+Z
+Exploration ou surveillance de la CMD 11 (D-057)
+11M02
+T
+1
+Lithiase urinaire (D-1101)
+Age
+Infection du rein ou de
+l'uretère (D-1102)
+11M03
+T
+1
+<18 ans
+11M04
+T
+1
+DS
+Insuffisance rénale
+(D-1103)
+=0 jour
+90Z02Z
+Dialyse péritonéale (D-325)
+11K02
+J
+1
+Dialyse rénale  (A-143)
+11M06
+T
+1
+11M07
+T
+1
+Tumeur du rein ou des voies urinaires (D-1104)
+3
+56
+3
+Age
+Autre affection de l'appareil urinaire (D-1105)
+11M08
+T
+1
+<18 ans
+11M15
+T
+1
+Diabète avec atteinte rénale
+(D-062)
+11M16
+T
+1
+11M10
+T
+1
+Rétrécissement urétral (D-1106)
+Age
+Signe ou symptôme urologique (D-1107)
+11M11
+1
+<18 ans
+11M12
+T
+1
+11M17
+1
+Suivi de greffe rénale (D-1108)
+11M19
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 11 (D-1109)
+11M18
+Z
+Exploration ou surveillance de la CMD 11 (D-1110)
+11M20
+1
+Autre affection urologique du nouveau-né (D-1111)
+57
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°12
+Affections de l'appareil génital masculin
+Sexe
+CMD 12
+90Z01Z
+Féminin
+Acte op. de
+la CMD 12
+Itv. maj. sur le pelvis chez l'homme
+(A-100)
+12C11
+1
+Tumeur maligne de l'appareil
+génital masculin (D-038)
+12C12
+1
+12C03
+J
+1
+Itv. sur le pénis (A-101)
+12C04
+J
+1
+Prostatectomie transurétrale (A-102)
+Itv. sur le testicule (A-103)
+12C05
+1
+Affection maligne de l'appareil
+génital masculin (D-1203)
+Age
+12C06
+J
+1
+<18 ans
+12C07
+J
+1
+12C13
+J
+1
+Stérilisation (A-272)
+12C08
+J
+1
+Circoncision (A-104)
+Autre itv. sur l'appareil génital
+masculin (A-105)
+12C09
+1
+Affection maligne de l'appareil
+génital masculin (D-009)
+12C10
+1
+1
+58
+1
+DS
+<2
+jours
+Endoscopie urinaire  (A-224)
+12K02
+Z
+Anesthésie (activité=4)
+12K03
+Z
+DS
+=0 jour
+12K06
+JBiopsie prostatique  (A-271)
+12M08
+Z
+Exploration ou surveillance de la CMD 12 (D-057)
+12M06
+T
+1
+Prostatite aigüe ou orchite (D-1201)
+12M07
+T
+1
+Autre infection ou inflammation de l'appareil génital masculin (D-1202)
+12M03
+T
+1
+Affection maligne de l'appareil génital masculin (D-1203)
+12M04
+T
+1
+Hypertrophie prostatique bénigne (D-1204)
+12M05
+T
+1
+Autre affection de l'appareil génital masculin (D-1205)
+12M08
+Z
+Exploration ou surveillance de la CMD 12 (D-1206)
+12M09
+Z
+Autre symptôme ou recours aux soins de la CMD 12 (D-1207)
+59
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°13
+Affections de l'appareil génital féminin
+Sexe
+CMD 13
+90Z01Z
+Masculin
+DS
+Acte op.
+de la
+CMD 13
+=0 jour
+13C16
+JPrélèvement d'ovocytes (A-194)
+Eviscération pelvienne,
+hystérectomie radicale ou
+vulvectomie (A-106)
+13C14
+1
+Tumeur maligne de l'appareil
+génital féminin (D-1303)
+13C15
+1
+13C03
+1
+Hystérectomie non radicale (A-107)
+13C04
+J
+1
+Itv. réparatrice sur l'appareil génital féminin (A-108)
+13C17
+J
+1
+Cervicocystopexie (A-293)
+Itv. sur le système utéroannexiel
+(A-109)
+13C05
+1
+Tumeur maligne de l'appareil
+génital féminin (D-1303)
+13C06
+J
+1
+Interruption tubaire (A-110)
+13C18
+1
+Myomectomie (A-362)
+13C19
+J
+1
+Stérilité, polype ou motif de soin
+lié à la reproduction (D-334)
+13C07
+J
+1
+13C08
+J
+1
+Itv. sur la vulve, le vagin ou le col utérin (A-111)
+1
+2
+60
+1
+2
+13C20
+J
+1
+Exérèse ou destruction de lésion du col utérin (A-363)
+13C09
+J
+1
+Coelioscopie exploratrice sauf pour interruption tubaire (A-112)
+13C10
+J
+1
+Ligature tubaire par coelioscopie (A-113)
+Dilatation ou curetage, ou
+conisation (A-114)
+13C11
+J
+1
+Tumeur maligne de l'appareil
+génital féminin (D-1303)
+13C12
+J
+1
+13C13
+T
+1
+Autre itv. sur l'appareil génital féminin (A-115)
+DS
+<2
+jours
+Endoscopie génito-urinaire thérap.
+ (A-225)
+13K02
+Z
+Anesthésie (activité=4)
+13K03
+Z
+Endoscopie génito-urinaire
+diagnostique  (A-226)
+13K04
+Z
+Anesthésie (activité=4)
+13K05
+Z
+3
+61
+3
+DS
+=0 jour
+13K06
+JAnesthésie (activité=4)
+13M09
+Z
+Exploration ou surveillance de la CMD 13 (D-057)
+13M05
+1
+Infection de l'utérus ou d'annexe (D-1301)
+13M06
+T
+1
+Autre infection de l'appareil génital féminin (D-1302)
+13M03
+T
+1
+Tumeur maligne de l'appareil génital féminin (D-1303)
+13M07
+1
+Autre tumeur de l'appareil génital féminin (D-1304)
+13M04
+T
+1
+Autre affection de l'appareil génital féminin (D-1305)
+13M08
+1
+Assistance médicale à la procréation (D-1306)
+13M09
+Z
+Exploration ou surveillance de la CMD 13 (D-1307)
+13M10
+Z
+Autre symptôme ou recours aux soins de la CMD 13 (D-1308)
+62
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°14
+Grossesses pathologiques, accouchements et affections du post-partum
+Sexe
+90Z01Z
+Masculin
+Accouche-
+ment
+(diagnostic)
+(D-116)
+90Z01Z
+Grossesse ectopique (D-1403)
+Accouchement en dehors d'un établissement de santé
+(D-301)
+90Z02Z
+Acte d'accouchement (A-323)
+14Z09
+Z
+CMD
+14
+Acte
+d'accouche-
+ment
+(A-323)
+Itv. par
+césarienne
+(A-117)
+Résultat
+d'accouche-
+ment,
+mort-né
+(D-314)
+14C06
+D
+Complication sévère de la
+césarienne (D-316)
+14C06
+C
+Complication maj. de la
+césarienne (D-004)
+14C06
+B
+Autre complication de la
+césarienne (D-005)
+14C06
+A
+Grossesse
+multiple
+(D-315)
+14C07
+D
+Complication sévère de la
+césarienne (D-316)
+14C07
+C
+Complication maj. de la
+césarienne (D-004)
+14C07
+B
+Autre complication de la
+césarienne (D-005)
+14C07
+A
+14C08
+D
+Complication sévère de la césarienne (D-316)
+14C08
+C
+Complication maj. de la césarienne (D-004)
+1
+2
+3
+4
+63
+1
+2
+3
+4
+14C08
+B
+Autre complication de la césarienne (D-005)
+14C08
+A
+Résultat d'accouchement, mort-né
+(D-314)
+14Z10
+B
+Complication de l'accouchement
+(D-317)
+14Z10
+T
+A
+Grossesse
+multiple
+(D-315)
+Accouche-
+ment voie
+basse chez
+une
+primipare
+(A-335)
+14Z11
+B
+Complication sévère de
+l'accouchement (D-318)
+14Z11
+B
+Complication maj. de
+l'accouchement (D-002)
+14Z11
+A
+14Z12
+B
+Complication sévère de l'accouchement (D-318)
+14Z12
+B
+Complication maj. de l'accouchement (D-002)
+14Z12
+A
+Autre itv. au cours de
+l'accouchement (A-119)
+14C03
+D
+Complication sévère de
+l'accouchement (D-318)
+14C03
+C
+Complication maj. de
+l'accouchement (D-002)
+14C03
+B
+Autre complication de
+l'accouchement (D-003)
+14C03
+A
+5
+6
+7
+64
+5
+6
+7
+Accouchement voie basse chez
+une primipare (A-335)
+14Z13
+D
+Complication sévère de
+l'accouchement (D-318)
+14Z13
+C
+Complication maj. de
+l'accouchement (D-002)
+14Z13
+B
+Autre complication de
+l'accouchement (D-003)
+14Z13
+T
+A
+14Z14
+D
+Complication sévère de l'accouchement (D-318)
+14Z14
+C
+Complication maj. de l'accouchement (D-002)
+14Z14
+B
+Autre complication de l'accouchement (D-003)
+14Z14
+T
+A
+90Z02Z
+90Z02Z
+Autre diagnostic d'accouchement (D-302)
+90Z02Z
+Accouchement (grande liste) (A-336)
+Grossesse
+ectopique
+(D-1403)
+Itv. pour
+GEU
+(A-326)
+14C09
+B
+Complication de grossesse ectopique (D-319)
+14C09
+A
+14Z15
+Z
+14Z16
+T
+Z
+Faux travail, menace d'accouchement prématuré ou placenta praevia (D-1405)
+8
+65
+8
+Avortement (D-1402)
+DS
+Interruption volontaire de
+grossesse (D-016)
+14Z08
+Z
+<3 jours
+14C05
+J
+Z
+Dilatation ou curetage (A-120)
+14Z04
+T
+Z
+90Z02Z
+Acte se terminant par un avortement (A-345)
+14Z06
+T
+Z
+Menace d'avortement (D-1404)
+Affection de l'ante partum
+(D-1407)
+90Z02Z
+Autre diagnostic du postpartum ou du post abortum (D-308)
+14C10
+T
+Z
+Acte opératoire
+14M03
+D
+Complication sévère de l'ante partum (D-322)
+14M03
+C
+Complication maj. de l'ante partum (D-321)
+14M03
+B
+Autre complication de l'ante partum (D-320)
+14M03
+T
+A
+Affection du post partum ou du
+post abortum (D-1408)
+90Z02Z
+Autre diagnostic de l'ante partum (D-310)
+9
+10
+66
+9
+10
+14C04
+T
+Z
+Acte opératoire
+14M02
+B
+Complication du postpartum ou du post abortum (D-311)
+14M02
+T
+A
+90Z02Z
+67
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°16
+Affections du sang et des organes hématopoïétiques
+CMD 16
+Acte op. de
+la CMD 16
+16C02
+1
+Itv. sur la rate (A-121)
+16C03
+J
+1
+Autre itv. de la CMD 16 (A-122)
+16M14
+Z
+Exploration ou surveillance de la CMD 16 (D-057)
+16M06
+T
+1
+Affection de la rate (D-1601)
+16M07
+1
+Donneur de moelle (D-1602)
+16M08
+1
+Déficit immunitaire (D-1603)
+16M09
+T
+1
+Autre affection du système réticuloendothélial ou immunitaire (D-1604)
+Age
+Trouble sévère de la lignée érythrocytaire
+(D-1605)
+16M16
+T
+1
+<18 ans
+16M10
+T
+1
+Age
+Autre trouble de la lignée érythrocytaire
+(D-1606)
+16M17
+T
+1
+<18 ans
+16M11
+T
+1
+16M12
+T
+1
+Purpura (D-1607)
+16M13
+T
+1
+Autre trouble de la coagulation (D-1608)
+1
+68
+1
+16M14
+Z
+Exploration ou surveillance de la CMD 16 (D-1609)
+16M15
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 16 (D-1610)
+16M18
+1
+Autre affection hématologique du nouveau-né (D-1611)
+69
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°17
+Affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+CMD 17
+90Z01Z
+Préparation à une irradiation externe (D-142)
+Acte
+opératoire
+17C06
+1
+Itv. maj. de la CMD17 (A-369)
+17C07
+1
+Itv. intermédiaire de la CMD17 (A-370)
+17C08
+J
+1
+DS
+=0 jour
+17K07
+JAnesthésie (activité=4)
+17M14
+Z
+Exploration ou surveillance de la CMD 17 (D-057)
+Age
+Leucémie aigüe
+(D-1701)
+17M08
+T
+1
+<18 ans
+17M09
+T
+1
+Chimiothérapie (D-1705)
+17M05
+1
+Leucémie aigüe (D-126)
+17M06
+T
+1
+Irradiation (D-1706)
+17K05
+1
+Curiethérapie de la prostate  (A-192)
+17K08
+1
+Autre curiethérapie (A-371)
+17K09
+1
+Irradiation interne (A-372)
+17K04
+1
+1
+70
+1
+17M14
+Z
+Exploration ou surveillance d'une affection myéloprolif. ou tumeur de siège imprécis ou diffus
+(D-1708)
+17M15
+T
+1
+Lymphome ou autre affection maligne lymphoïde (D-1710)
+17M16
+T
+1
+Hémopathie myéloïde chronique (D-1711)
+17M17
+T
+1
+Autre affection ou tumeur de siège imprécis ou diffus (D-1712)
+71
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°18
+Maladies infectieuses et parasitaires
+CMD 18
+18C02
+J
+1
+Acte opératoire
+DS
+MS
+<2
+jours
+18M13
+E
+Décès
+18M12
+Z
+Exploration ou surveillance de la CMD 18 (D-057)
+Age
+Maladie virale (D-1801)
+18M02
+1
+<18 ans
+18M03
+T
+1
+Age
+Fièvre d'étiologie indéterminée (D-1802)
+18M02
+1
+<18 ans
+18M04
+T
+1
+Age
+Septicémie (D-1803)
+18M06
+1
+<18 ans
+18M07
+T
+1
+18M09
+T
+1
+Paludisme (D-1804)
+18M10
+T
+1
+Maladie infectieuse sévère (D-1805)
+18M11
+T
+1
+Autre maladie infectieuse ou parasitaire (D-1806)
+18M14
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 18 (D-1807)
+18M12
+Z
+Exploration ou surveillance de la CMD 18 (D-1808)
+18M15
+1
+Autre maladie infectieuse du nouveau-né (D-1809)
+72
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°19
+Maladies et troubles mentaux
+CMD 19
+19C02
+1
+Acte opératoire
+19M21
+Z
+Exploration ou surveillance de la CMD 19 (D-057)
+19M02
+T
+1
+Trouble aigu de l'adaptation ou du fonctionnement psychosocial (D-1901)
+19M12
+T
+1
+Anorexie mentale ou boulimie (D-1902)
+19M13
+T
+1
+Autre trouble de la personnalité ou du comportement avec réaction impulsive (D-1903)
+19M14
+T
+1
+Trouble bipolaire ou syndrome dépressif sévère (D-1904)
+Age
+Autre psychose (D-1905)
+19M15
+T
+1
+>79 ans
+19M16
+T
+1
+Age
+Trouble mental d'origine organique ou retard
+mental (D-1906)
+19M06
+T
+1
+>79 ans
+19M07
+T
+1
+19M17
+1
+Maladie ou trouble du développement psychologique de l'enfance (D-1907)
+19M18
+T
+1
+Autre maladie ou trouble mental de l'enfance (D-1908)
+19M19
+T
+1
+Trouble de l'humeur (D-1909)
+19M20
+T
+1
+Autre trouble mental (D-1910)
+1
+73
+1
+19M10
+T
+1
+Névrose non dépressive (D-1911)
+19M11
+T
+1
+Névrose dépressive (D-1912)
+19M21
+Z
+Exploration ou surveillance de la CMD 19 (D-1913)
+19M22
+T
+Z
+Autre symptôme ou recours aux soins de la CMD 19 (D-1914)
+74
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°20
+Troubles mentaux organiques liés à l'absorption de drogues ou induits par celles-ci
+20Z02
+T
+1
+Toxicomanie non éthylique avec dépendance (D-2001)
+20Z03
+1
+Toxicomanie non éthylique sans dépendance (D-2002)
+20Z04
+T
+1
+Éthylisme avec dépendance (D-2003)
+20Z05
+1
+Éthylisme aigu (D-2004)
+20Z06
+T
+1
+Trouble mental organique induit par l'alcool ou autre substance (D-2005)
+CMD
+20
+75
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°21
+Traumatismes, allergies et empoisonnements
+CMD 21
+Acte op. de
+la CMD 21
+21C06
+J
+1
+Greffe de peau pour blessure (A-126)
+21C04
+J
+1
+Itv. sur la main suite à blessure (A-128)
+21C05
+J
+1
+Autre itv. pour blessure ou complication d'acte (A-129)
+DS
+=0 jour
+21K02
+JAnesthésie (activité=4)
+Age
+Effet toxique de
+médicament ou
+substance biologique
+(D-2101)
+21M02
+T
+1
+<18 ans
+21M10
+T
+1
+21M11
+T
+1
+Effet toxique d'autre substance chimique (D-2102)
+21M12
+1
+Autre effet toxique (D-2103)
+Age
+Réaction allergique
+(D-2104)
+21M04
+T
+1
+<18 ans
+21M05
+T
+1
+Age
+Traumatisme imprécis
+(D-2105)
+21M06
+1
+<18 ans
+21M07
+T
+1
+21M13
+1
+Maltraitance (D-2106)
+1
+76
+1
+21M14
+T
+1
+Autre traumatisme ou effet nocif autre que intoxication (D-2107)
+21M15
+T
+1
+Rejet de greffe (D-2108)
+21M16
+T
+1
+Autre complication iatrogénique (D-2109)
+77
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°22
+Brûlures
+MS
+CMD 22
+Dest
+transfert
+DS
+vers MCO
+22Z03
+Z
+<2
+jours
+22Z02
+1
+Brûlure étendue (D-2202)
+Acte op. de
+la CMD 22
+22C02
+J
+1
+Greffe de peau pour brûlure (A-130)
+22C03
+1
+Débridement de lésion ou autre itv. pour brûlure (A-131)
+DS
+=0 jour
+22K02
+JAnesthésie (activité=4)
+22M02
+T
+1
+78
+CATÉGORIE MAJEURE DE DIAGNOSTIC N°23
+Facteurs influant sur l'état de santé et autres motifs de recours aux services de santé
+CMD 23
+23Z03
+Z
+Itv. de confort (D-044)
+23Z02
+T
+Z
+Soins palliatifs (D-2300)
+23C02
+J
+1
+Acte opératoire
+DS
+<2
+jours
+23K02
+Z
+Exploration nocturne ou apparentée  (A-177)
+DS
+=0 jour
+23M07
+JSéropositivité ou infection par le VIH (D-140)
+23M08
+JDiabète (D-141)
+23K03
+JAnesthésie (activité=4)
+23M19
+Z
+Exploration ou surveillance de la CMD 23 (D-057)
+23M02
+T
+Z
+Rééducation (D-2301)
+23M09
+1
+Chimiothérapie pour affection non tumorale (D-2302)
+23M10
+T
+1
+Soin de contrôle chirurgical (D-2303)
+23M14
+Z
+Traitement prophylactique (D-2305)
+1
+79
+1
+23M15
+Z
+Acte non effectué en raison d'une contre-indication (D-2306)
+23M16
+T
+Z
+Convalescence ou autre motif social (D-2307)
+23M20
+T
+Z
+Autre motif de recours aux soins (D-2309)
+23M19
+Z
+Exploration ou surveillance de la CMD 23 (D-2310)
+23M06
+T
+1
+Autre facteur influant sur l'état de santé (D-2311)
+23M11
+T
+1
+Autre motif concernant majoritairement la petite enfance (D-2312)
+23M21
+T
+Z
+Désensibilisation ou test allergologique (D-2313)
+80
+Direction De l’information légale et aDministrative
+26, rue Desaix - 75727 Paris ceDex 15
+accueil commercial : 01 40 15 70 10
+No 2018/5 bis
+FIN DE DOCUMENT
